@@ -1,0 +1,101 @@
+﻿rank,ticker,name,mentions,unique_authors,weighted_score,from_posts,is_etf
+1,MU,"Micron Technology, Inc. - Common Stock",1463,525,4847,17,False
+2,SPY,State Street SPDR S&P 500 ETF Trust,1437,579,4495,3,True
+3,QQQ,"Invesco QQQ Trust, Series 1",629,270,1237,5,True
+4,NVDA,NVIDIA Corporation - Common Stock,566,352,31109,16,False
+5,SPCX,Space Exploration Technologies Corp. - Class A Common Stock,537,283,5402,10,False
+6,ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",463,248,1176,2,False
+7,APLD,Applied Digital Corporation - Common Stock,421,161,1072,8,False
+8,AMD,"Advanced Micro Devices, Inc. - Common Stock",356,267,4215,14,False
+9,SNDK,Sandisk Corporation - Common Stock When-Issued,284,136,586,3,False
+10,T,AT&T Inc.,263,191,5335,6,False
+11,SPX,S&P 500 Index,230,97,544,4,False
+12,HTZ,"Hertz Global Holdings, Inc - Common Stock",224,98,308,8,False
+13,MSFT,Microsoft Corporation - Common Stock,206,115,450,2,False
+14,SOXL,Direxion Daily Semiconductor Bull 3X ETF,176,50,253,0,True
+15,TSLA,"Tesla, Inc.  - Common Stock",168,101,1666,6,False
+16,NBIS,Nebius Group N.V. - Class A Ordinary Shares,161,95,388,5,False
+17,AMZN,"Amazon.com, Inc. - Common Stock",154,76,308,1,False
+18,PLTR,Palantir Technologies Inc. - Class A Common Stock,147,80,274,2,False
+19,AAPL,Apple Inc. - Common Stock,145,83,270,3,False
+20,AVGO,Broadcom Inc. - Common Stock,143,86,273,2,False
+21,NKE,"Nike, Inc. Common Stock",134,81,340,2,False
+22,NFLX,"Netflix, Inc. - Common Stock",133,82,224,2,False
+23,WDC,Western Digital Corporation - Common Stock,132,79,212,1,False
+24,META,"Meta Platforms, Inc. - Class A Common Stock",130,86,310,1,False
+25,RDDT,"Reddit, Inc. Class A Common Stock",130,86,1047,4,False
+26,GOOG,Alphabet Inc. - Class C Capital Stock,125,82,274,0,False
+27,VST,Vistra Corp. Common Stock,125,52,203,0,False
+28,JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,121,72,246,1,True
+29,GME,GameStop Corporation Common Stock,120,81,1140,8,False
+30,TLT,iShares 20+ Year Treasury Bond ETF,113,60,193,1,True
+31,GOOGL,Alphabet Inc. - Class A Common Stock,106,56,1008,3,False
+32,INTC,Intel Corporation - Common Stock,105,66,186,3,False
+33,LULU,lululemon athletica inc. - Common Stock,96,42,172,3,False
+34,MRVL,"Marvell Technology, Inc. - Common Stock",94,61,143,4,False
+35,RKLB,Rocket Lab Corporation - Common Stock,91,48,147,4,False
+36,VIX,CBOE Volatility Index,90,60,229,0,False
+37,ET,Energy Transfer LP Common Units,86,15,123,0,False
+38,VOO,Vanguard S&P 500 ETF,85,70,318,0,True
+39,TIME,Clockwise U.S. Core Equity ETF,83,51,235,0,True
+40,BULL,Webull Corporation - Class A Ordinary Shares,83,31,131,1,False
+41,MCD,McDonald's Corporation Common Stock,74,39,1070,2,False
+42,MRNA,"Moderna, Inc. - Common Stock",72,59,860,2,False
+43,IREN,IREN Limited - Ordinary Shares,72,53,222,2,False
+44,HERE,Here Group Limited - American Depositary Shares,69,46,119,1,False
+45,DRAM,Roundhill Memory ETF,69,46,123,0,True
+46,HOOD,"Robinhood Markets, Inc. - Class A Common Stock",69,43,149,2,False
+47,IWM,iShares Russell 2000 Index Fund,65,33,77,0,True
+48,FT,Franklin Universal Trust Common Stock,63,52,1140,4,False
+49,SKHY,SK hynix Inc. - American Depositary Shares,62,36,127,2,False
+50,IQ,"iQIYI, Inc. - American Depositary Shares",60,45,320,0,False
+51,ADBE,Adobe Inc. - Common Stock,58,49,1982,7,False
+52,USO,United States Oil Fund,58,38,84,1,True
+53,TACO,Berto Acquisition Corp. - Ordinary Shares,55,30,131,0,False
+54,ORCL,Oracle Corporation Common Stock,54,43,102,0,False
+55,VZ,Verizon Communications Inc. Common Stock,53,39,1482,1,False
+56,STX,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),53,34,99,1,False
+57,PENG,"Penguin Solutions, Inc. - Common Stock",53,25,85,1,False
+58,OKLO,Oklo Inc. Class A common stock,51,32,73,2,False
+59,GLD,SPDR Gold Shares,49,31,82,1,True
+60,BWET,Breakwave Tanker Shipping ETF,47,28,70,1,True
+61,DELL,Dell Technologies Inc. Class C Common Stock,47,16,393,0,False
+62,MSTR,Strategy Inc - Class A Common Stock,46,35,1236,2,False
+63,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,46,27,72,0,False
+64,WOLF,"Wolfspeed, Inc. Common Stock New",45,37,278,3,False
+65,WULF,TeraWulf Inc. - Common Stock,44,31,81,1,False
+66,SOXS,Direxion Daily Semiconductor Bear 3X ETF,44,22,67,2,True
+67,UI,Ubiquiti Inc. Common Stock,40,39,145,2,False
+68,WEN,Wendy's Company (The) - Common Stock,40,33,65,0,False
+69,SK,Corgi SK hynix 2x Daily ETF,40,32,145,2,True
+70,CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",40,31,92,1,False
+71,KNOW,Fundamentals First ETF,39,31,107,0,True
+72,UUUU,Energy Fuels Inc Ordinary Shares (Canada),39,28,285,2,False
+73,RSI,"Rush Street Interactive, Inc. Class A Common Stock",38,27,256,1,False
+74,AAOI,"Applied Optoelectronics, Inc. - Common Stock",38,26,215,1,False
+75,TTWO,"Take-Two Interactive Software, Inc. - Common Stock",37,26,88,2,False
+76,CEG,Constellation Energy Corporation - Common Stock When-Issued,35,22,44,0,False
+77,CBRS,Cerebras Systems Inc. - Class A Common Stock,34,15,57,0,False
+78,AGI,Alamos Gold Inc. Class A Common Shares,33,28,2770,1,False
+79,DON,WisdomTree U.S. MidCap Dividend Fund,33,22,83,0,True
+80,HIGH,Simplify Enhanced Income ETF,33,19,102,0,True
+81,INFQ,"Infleqtion, Inc. Common Stock",33,9,137,2,False
+82,IP,International Paper Company Common Stock,32,29,47,1,False
+83,DRTS,Alpha Tau Medical Ltd. - Ordinary Shares,31,25,487,1,False
+84,YEAR,AB Ultra Short Income ETF,31,19,76,0,True
+85,SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",30,24,179,4,False
+86,WAY,Waystar Holding Corp. - Common Stock,30,24,175,0,False
+87,CRWV,"CoreWeave, Inc. - Class A Common Stock",30,23,51,2,False
+88,JPM,JP Morgan Chase & Co. Common Stock,29,23,41,1,False
+89,TOP,TOP Financial Group Limited - Class A Ordinary Shares,29,21,91,0,False
+90,ONDS,Ondas Inc - Common Stock,29,21,38,0,False
+91,CIFR,Cipher Digital Inc. - Common Stock,29,8,47,0,False
+92,SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,28,19,47,0,True
+93,LOT,Lotus Technology Inc. - American Depositary Shares,27,23,66,1,False
+94,CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,27,18,29,0,False
+95,NOK,Nokia Corporation Sponsored American Depositary Shares,27,15,39,0,False
+96,MS,Morgan Stanley Common Stock,26,23,327,0,False
+97,WANT,Direxion Daily Consumer Discretionary Bull 3X ETF,26,22,345,1,True
+98,SMCI,"Super Micro Computer, Inc. - Common Stock",26,16,38,0,False
+99,PLUG,"Plug Power, Inc. - Common Stock",26,6,30,1,False
+100,QCOM,QUALCOMM Incorporated - Common Stock,25,18,53,1,False
